@@ -727,6 +727,12 @@ input:focus {
         color: #212529;
 }
 
+@media (min-width: 700px){
+    .text-input{
+        min-width: 90%;
+    }
+}
+
 /* --------------------------------store locator-------------------------------------------- */
 
 .store-container{
